@@ -16,7 +16,7 @@ https://openweathermap.org/api
 To deploy this cloud function on google cloud just run the following command:
 
 ````
-gcloud functions deploy get-openweather-current-data --entry-point functions.StoreOpenWeatherData 
+gcloud functions deploy <however you want to call your app> --entry-point functions.StoreOpenWeatherData 
 --runtime java11 --trigger-http --memory 512MB --allow-unauthenticated
 ````
 
