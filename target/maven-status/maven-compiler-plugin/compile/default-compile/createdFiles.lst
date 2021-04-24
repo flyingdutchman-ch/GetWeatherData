@@ -1,0 +1,16 @@
+functions/openweather/weatherobj/Wind.class
+functions/openweather/OneCallWeather.class
+functions/StoreOpenWeatherData.class
+functions/openweather/weatherobj/WeatherObjOneCall.class
+functions/openweather/weatherobj/Daily.class
+functions/openweather/weatherobj/Weather.class
+functions/openweather/weatherobj/Snow.class
+functions/openweather/weatherobj/Main.class
+functions/openweather/weatherobj/Temp.class
+functions/openweather/weatherobj/Clouds.class
+functions/openweather/weatherobj/FeelsLike.class
+functions/openweather/weatherobj/Coord.class
+functions/openweather/CurrentWeather.class
+functions/openweather/weatherobj/Rain.class
+functions/openweather/weatherobj/Current.class
+functions/openweather/weatherobj/Sys.class
